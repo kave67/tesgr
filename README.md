@@ -11,5 +11,5 @@ Nice hope figured out
 source("http://d396qusza40orc.cloudfront.net/rprog%2Fscripts%2Fsubmitscript3.R")
 
 | Name  |   item   | item to be linked|
-|------ | ----- -- | ---------------  |
+|:----: |:-------: | :-------------:  |
 | good  | v good   | goood            |
