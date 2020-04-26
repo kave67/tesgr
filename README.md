@@ -8,3 +8,6 @@ Nice hope figured out
 3. A github repo 
 4. folder for the code 
 
+source("http://d396qusza40orc.cloudfront.net/rprog%2Fscripts%2Fsubmitscript3.R")
+
+
